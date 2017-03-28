@@ -1,5 +1,5 @@
 # Starter Web Project
-This is a simple website project for showing for to use Git & GitHub. Adding more text for rebase example, then more changes from myfeature branch, too.
+This is a simple website project for showing for to use Git & GitHub. Adding more text for rebase example, then more changes from myfeature branch, too. Emergency fix after stash.
 ## Introduction
 Example Introduction
 ## Purpose
