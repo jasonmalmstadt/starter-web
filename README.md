@@ -9,4 +9,4 @@ This is a simple web project. Deployment can be on any server.
 ## How To Contribute
 Please fork this repo and then issue Pull Requests.
 ###Copyright
-2017 Jason Malmstadt
+2017 Jason Malmstadt. All Rights Reserved
